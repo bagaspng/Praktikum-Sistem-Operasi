@@ -1,0 +1,1 @@
+Mempelajari cara mengenali jenis file, isi, dan atributnya menggunakan perintah file, stat
