@@ -4,7 +4,7 @@
 Secret/ <br/>
 ├── image/ # berisi gambar sumber dan hasil reply.png<br/>
 ├── extract/ # hasil ekstraksi & decoding pesan<br/>
-└── reply/ # pesan balasan dan hasil encoding<br/>
+└── reply/ # pesan balasan dan hasil encoding (Opsional)<br/>
 
 ## 💡 Petunjuk Umum
 + Ekstrak pesan di antara marker
